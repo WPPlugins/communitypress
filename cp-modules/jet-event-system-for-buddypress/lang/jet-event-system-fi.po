@@ -1,0 +1,2028 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Jet Event System for Buddypress\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/jet-event-system-for-buddypress\n"
+"POT-Creation-Date: 2011-03-27 00:38:56+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2011-05-31 13:55+0200\n"
+"Last-Translator: Ilpo Puhakka <ilpo.puhakka@mediajalostamo.fi>\n"
+"Language-Team: Mediajalostamo <info@mediajalostamo.fi>\n"
+"X-Poedit-Language: Finnish\n"
+"X-Poedit-Country: FINLAND\n"
+
+#: main/jet-events-screen.php:37
+msgid "Event invite could not be accepted"
+msgstr "Tapahtumakutsua ei voitu hyväksyä."
+
+#: main/jet-events-screen.php:39
+msgid "Event invite accepted"
+msgstr "Tapahtumakutsu hyväksytty."
+
+#: main/jet-events-screen.php:45
+#: main/jet-event-start.php:577
+#: main/jet-events-operations.php:345
+msgid "%s joined the event %s"
+msgstr "%s liittyi tapahtumaan %s"
+
+#: main/jet-events-screen.php:59
+msgid "Event invite could not be rejected"
+msgstr "Tapahtumakutsua ei voitu hylätä."
+
+#: main/jet-events-screen.php:61
+msgid "Event invite rejected"
+msgstr "Tapahtumakutsu hylätty."
+
+#: main/jet-events-screen.php:133
+msgid "Event invites sent."
+msgstr "Tapahtumakutsut lähetetty."
+
+#: main/jet-events-screen.php:159
+msgid "There was an error sending your join event request, please try again."
+msgstr "Lähetettäessä osallistumispyyntöä tapahtui virhe. Yritä uudelleen."
+
+#: main/jet-events-screen.php:161
+msgid "Your request to join was sent to the event administrator successfully. You will be notified when the event administrator responds to your request."
+msgstr "Osallistumispyyntösi lähetettiin onnistuneesti tapahtumajärjestäjälle. Saat ilmoituksen, kun tapahtumajärjestäjä on hyväksynyt pyyntösi."
+
+#: main/jet-events-screen.php:211
+#: main/jet-events-action.php:65
+msgid "There was an error updating event details. Date and time of completion of the event can not exceed the date of its beginning, please try again."
+msgstr "Tapahtumatietojen päivittämisessä tapahtui virhe. Tapahtuma ei voi päättyä ennen sen alkamista. Yritä uudelleen."
+
+#: main/jet-events-screen.php:214
+msgid "There was an error updating event details, please try again."
+msgstr "Tapahtumatietojen päivittämisessä tapahtui virhe. Yritä uudelleen."
+
+#: main/jet-events-screen.php:216
+msgid "Event details were successfully updated."
+msgstr "Tapahtumatiedot päivitettiin onnistuneesti."
+
+#: main/jet-events-screen.php:251
+msgid "There was an error updating event settings, please try again."
+msgstr "Tapahtuman asetuksia päivitettäessä tapahtui virhe, kokeile uudestaan."
+
+#: main/jet-events-screen.php:253
+msgid "Event settings were successfully updated."
+msgstr "Tapahtuman asetukset päivitetty onnistuneesti."
+
+#: main/jet-events-screen.php:283
+msgid "Your avatar was deleted successfully!"
+msgstr "Avatarisi poistaminen onnistui moitteettomasti!"
+
+#: main/jet-events-screen.php:285
+msgid "There was a problem deleting that avatar, please try again."
+msgstr "Avatarin poistamisessa tapahtui virhe. Yritä uudelleen."
+
+#: main/jet-events-screen.php:313
+msgid "There was a problem cropping the avatar, please try uploading it again"
+msgstr "Avatarin rajaamisessa tapahtui virhe. Yritä uudelleen."
+
+#: main/jet-events-screen.php:315
+msgid "The new event avatar was uploaded successfully!"
+msgstr "Avatar ladattiin onnistuneesti!"
+
+#: main/jet-events-screen.php:344
+msgid "There was an error when promoting that user, please try again"
+msgstr "Käyttäjäoikeuksien muuttamisessa tapahtui virhe. Yritä uudestaan."
+
+#: main/jet-events-screen.php:346
+msgid "User promoted successfully"
+msgstr "Käyttäjä ylennetty onnistuneesti."
+
+#: main/jet-events-screen.php:363
+msgid "There was an error when demoting that user, please try again"
+msgstr "Käyttäjän alentamisessa tapahtui virhe, kokeile uudestaan."
+
+#: main/jet-events-screen.php:365
+msgid "User demoted successfully"
+msgstr "Käyttäjä alennettu onnistuneesti."
+
+#: main/jet-events-screen.php:382
+msgid "There was an error when banning that user, please try again"
+msgstr "Porttikiellon antamisessa käyttäjälle tapahtui virhe, kokeile uudestaan."
+
+#: main/jet-events-screen.php:384
+msgid "User banned successfully"
+msgstr "Porttikiellon antaminen käyttäjälle onnistui."
+
+#: main/jet-events-screen.php:401
+msgid "There was an error when unbanning that user, please try again"
+msgstr "Porttikiellon poistamisessa tapahtui virhe, kokeile uudestaan."
+
+#: main/jet-events-screen.php:403
+msgid "User ban removed successfully"
+msgstr "Käyttäjän porttikielto poistettu onnistuneesti."
+
+#: main/jet-events-screen.php:445
+msgid "There was an error accepting the membership request, please try again."
+msgstr "Jäsenhakemuksen hyväksymisessä tapahtui virhe, kokeile uudestaan."
+
+#: main/jet-events-screen.php:447
+msgid "Event membership request accepted"
+msgstr "Pyyntö tapahtumajäseneksi hyväksytty."
+
+#: main/jet-events-screen.php:457
+msgid "There was an error rejecting the membership request, please try again."
+msgstr "Jäsenhakemuksen hylkäämisessä tapahtui virhe, kokeile uudestaan."
+
+#: main/jet-events-screen.php:459
+msgid "Event membership request rejected"
+msgstr "Pyyntö tapahtumajäseneksi hylätty."
+
+#: main/jet-events-screen.php:491
+msgid "There was an error deleting the event, please try again."
+msgstr "Tapahtuman poistamisessa tapahtui virhe, kokeile uudestaan."
+
+#: main/jet-events-screen.php:493
+msgid "The event was deleted successfully"
+msgstr "Tapahtuma poistettu onnistuneesti."
+
+#: main/jet-events-screen.php:516
+#: main/jet-events-activity.php:89
+#: main/jet-events-activity.php:102
+#: main/jet-events-activity.php:115
+#: main/jet-events-activity.php:128
+#: main/jet-events-menu.php:7
+#: main/jet-events-widgets.php:4
+msgid "Events"
+msgstr "Tapahtumat"
+
+#: main/jet-events-screen.php:517
+#: templates/events/single/admin.php:261
+#: templates/events/create.php:266
+#: templates/events/create.php:330
+msgid "Yes"
+msgstr "Kyllä"
+
+#: main/jet-events-screen.php:518
+#: templates/events/single/admin.php:262
+#: templates/events/create.php:267
+#: templates/events/create.php:331
+msgid "No"
+msgstr "Ei"
+
+#: main/jet-events-screen.php:525
+msgid "A member invites you to join a event"
+msgstr "Jäsen kutsuu sinut osallistumaan tapahtumaan."
+
+#: main/jet-events-screen.php:531
+msgid "Event information is updated"
+msgstr "Tapahtumatiedot päivitetty."
+
+#: main/jet-events-screen.php:538
+msgid "You are promoted to a event administrator or moderator"
+msgstr "Sinut on ylennetty tapahtumajärjestäjäksi tai -moderaattoriksi."
+
+#: main/jet-events-screen.php:544
+msgid "A member requests to join a private event for which you are an admin"
+msgstr "Jäsen lähetti osallistumispyynnön yksityistapahtumaan, jonka ylläpitäjänä olet."
+
+#: main/jet-events-screen.php:551
+msgid "You come reminder of imminent events"
+msgstr ""
+
+#: main/jet-events-action.php:38
+msgid "There was an error saving event details. Please try again."
+msgstr "Tapahtuman yksityiskohtien tallentamisessa tapahtui virhe. Kokeile uudestaan."
+
+#: main/jet-events-action.php:60
+msgid "Please fill in all of the required fields"
+msgstr "Täytä kaikki vaaditut kentät."
+
+#: main/jet-events-action.php:70
+msgid "There was an error saving event details, please try again [001]"
+msgstr "Tapahtuman yksityiskohtien tallentamisessa tapahtui virhe, kokeile uudestaan. [001]"
+
+#: main/jet-events-action.php:93
+msgid "There was an error saving event details, please try again. [002]"
+msgstr "Tapahtuman yksityiskohtien tallentamisessa tapahtui virhe, kokeile uudestaan. [002]"
+
+#: main/jet-events-action.php:124
+msgid "%s created the event %s"
+msgstr "%s loi tapahtuman %s"
+
+#: main/jet-events-action.php:172
+msgid "There was an error saving the event avatar, please try uploading again."
+msgstr "Tapahtuman avatarin tallentaminen aiheutti virheen, yritä lähettää se uudelleen."
+
+#: main/jet-events-action.php:174
+msgid "The event avatar was uploaded successfully!"
+msgstr "Avatarisi tapahtumalle on lähetetty onnistuneesti."
+
+#: main/jet-events-action.php:198
+#: main/jet-events-action.php:205
+msgid "There was an error joining the event."
+msgstr "Tapahtumaan liittyminen aiheutti virheen."
+
+#: main/jet-events-action.php:207
+msgid "You joined the event!"
+msgstr "Liityit tapahtumaan!"
+
+#: main/jet-events-action.php:230
+msgid "There was an error leaving the event."
+msgstr "Tapahtumasta poistuminen aiheutti virheen."
+
+#: main/jet-events-action.php:232
+#: main/jet-events-operations.php:303
+msgid "You successfully left the event."
+msgstr "Poistuit tapahtumasta onnistuneesti."
+
+#: main/jet-events-themetemplate.php:32
+#: main/jet-events-themetemplate.php:147
+#: main/jet-events-themetemplate.php:210
+#: templates/events/looptemplates/custom.php:22
+msgid "From: "
+msgstr "Lähettäjä:"
+
+#: main/jet-events-themetemplate.php:32
+#: main/jet-events-themetemplate.php:147
+#: main/jet-events-themetemplate.php:210
+#: templates/events/looptemplates/custom.php:22
+msgid "to: "
+msgstr "Vast. ott."
+
+#: main/jet-events-themetemplate.php:35
+#: templates/events/looptemplates/custom.php:25
+msgid "Short description:"
+msgstr "Lyhyt kuvaus:"
+
+#: main/jet-events-themetemplate.php:37
+#: main/jet-events-themetemplate.php:159
+#: main/jet-events-themetemplate.php:221
+#: templates/events/looptemplates/custom.php:27
+msgid "Description:"
+msgstr "Kuvaus:"
+
+#: main/jet-events-themetemplate.php:41
+#: main/jet-events-themetemplate.php:148
+#: main/jet-events-themetemplate.php:211
+#: templates/events/looptemplates/custom.php:31
+#: templates/events/single/google-map.php:8
+#: templates/events/single/details.php:14
+msgid "The event will take place:"
+msgstr "Tapahtuma järjestetään:"
+
+#: main/jet-events-themetemplate.php:51
+#: main/jet-events-themetemplate.php:157
+#: main/jet-events-themetemplate.php:220
+#: templates/events/looptemplates/custom.php:41
+#: templates/events/single/google-map.php:19
+#: templates/events/single/details.php:26
+msgid "in city:"
+msgstr "Kaupungissa:"
+
+#: main/jet-events-themetemplate.php:51
+#: main/jet-events-themetemplate.php:157
+#: main/jet-events-themetemplate.php:220
+#: templates/events/looptemplates/custom.php:41
+msgid "at "
+msgstr "ajankohta"
+
+#: main/jet-events-themetemplate.php:57
+#: main/jet-events-themetemplate.php:165
+#: main/jet-events-themetemplate.php:227
+#: main/jet-events-functions.php:151
+#: templates/events/looptemplates/custom.php:47
+#: templates/events/single/event-header.php:87
+msgid "Past event"
+msgstr "Mennyt tapahtuma"
+
+#: main/jet-events-themetemplate.php:65
+#: main/jet-events-themetemplate.php:173
+#: main/jet-events-themetemplate.php:235
+#: templates/events/looptemplates/custom.php:55
+msgid "Event requires approval!"
+msgstr "Tapahtuma vaatii hyväksymisen!"
+
+#: main/jet-events-themetemplate.php:69
+#: main/jet-events-themetemplate.php:177
+#: main/jet-events-themetemplate.php:239
+msgid "Last activity:<br /> %s ago"
+msgstr "Edellisen kerran aktiivisena:<br /> %s sitten"
+
+#: main/jet-events-templatetags.php:276
+msgid "Public Event"
+msgstr "Julkinen tapahtuma"
+
+#: main/jet-events-templatetags.php:278
+msgid "Hidden Event"
+msgstr "Piilotettu tapahtuma"
+
+#: main/jet-events-templatetags.php:280
+msgid "Private Event"
+msgstr "Yksityinen tapahtuma"
+
+#: main/jet-events-templatetags.php:282
+msgid "Event"
+msgstr "Tapahtuma"
+
+#: main/jet-events-templatetags.php:311
+msgid "Avatar Image"
+msgstr "Avatarin kuva"
+
+#: main/jet-events-templatetags.php:518
+#: main/jet-events-templatetags.php:2368
+msgid "Event avatar"
+msgstr "Tapahtuman avatar"
+
+#: main/jet-events-templatetags.php:574
+msgid "not yet active"
+msgstr "Ei vielä aktiivinen"
+
+#: main/jet-events-templatetags.php:1050
+msgid "Public"
+msgstr "Julkinen"
+
+#: main/jet-events-templatetags.php:1052
+msgid "Private"
+msgstr "Yksityinen"
+
+#: main/jet-events-templatetags.php:1107
+msgid "No Admins"
+msgstr "Ei ylläpitäjiä"
+
+#: main/jet-events-templatetags.php:1127
+msgid "No Mods"
+msgstr "Ei moderaattoreita"
+
+#: main/jet-events-templatetags.php:1149
+msgid "Filter Events"
+msgstr "Suodata tapahtumia"
+
+#: main/jet-events-templatetags.php:1197
+msgid "Viewing event %1$s to %2$s (of %3$s events)"
+msgstr "Näyttää tapahtuman %1$s  %2$s :n saakka (kaikkiaan %3$s tapahtumasta)"
+
+#: main/jet-events-templatetags.php:1220
+msgid "%s member"
+msgstr "%s jäsen"
+
+#: main/jet-events-templatetags.php:1222
+#: templates/members/single/events/invites.php:11
+msgid "%s members"
+msgstr "%s jäsenet"
+
+#: main/jet-events-templatetags.php:1232
+#: main/jet-events-templatetags.php:1234
+msgid "(%s)"
+msgstr "(%s)"
+
+#: main/jet-events-templatetags.php:1275
+#: main/jet-events-templatetags.php:1313
+msgid "Demote to Member"
+msgstr "Alenna käyttäjäksi"
+
+#: main/jet-events-templatetags.php:1281
+#: main/jet-events-templatetags.php:1319
+#: main/jet-events-templatetags.php:1937
+msgid "joined %s ago"
+msgstr "liittyi %s sitten"
+
+#: main/jet-events-templatetags.php:1294
+msgid "This event has no administrators"
+msgstr "Tällä tapahtumalla ei ole järjestäjiä."
+
+#: main/jet-events-templatetags.php:1313
+#: templates/events/single/admin.php:372
+msgid "Promote to Admin"
+msgstr "Ylennä ylläpitäjäksi"
+
+#: main/jet-events-templatetags.php:1332
+msgid "This event has no moderators"
+msgstr "Tällä tapahtumalla ei ole moderaattoreita."
+
+#: main/jet-events-templatetags.php:1446
+msgid "Edit Details"
+msgstr "Muokkaa yksityiskohtia"
+
+#: main/jet-events-templatetags.php:1453
+msgid "Event Settings"
+msgstr "Tapahtuman asetukset"
+
+#: main/jet-events-templatetags.php:1454
+#: main/jet-events-templatetags.php:2549
+#: main/jet-events-menu.php:75
+msgid "Event Avatar"
+msgstr "Tapahtuman avatar"
+
+#: main/jet-events-templatetags.php:1455
+msgid "Manage Members"
+msgstr "Hallitse jäseniä"
+
+#: main/jet-events-templatetags.php:1458
+msgid "Membership Requests"
+msgstr "Jäsenyyspyynnöt"
+
+#: main/jet-events-templatetags.php:1463
+#: main/jet-events-menu.php:152
+#: templates/events/single/admin.php:461
+msgid "Delete Event"
+msgstr "Poista tapahtuma"
+
+#: main/jet-events-templatetags.php:1644
+#: main/jet-events-templatetags.php:1652
+#: main/jet-events-templatetags.php:1663
+msgid "Leave Event"
+msgstr "En osallistukaan"
+
+#: main/jet-events-templatetags.php:1647
+msgid "Join Event"
+msgstr "Osallistun"
+
+#: main/jet-events-templatetags.php:1655
+msgid "Request to join Event"
+msgstr "Lähetä liittymispyyntö tapahtumaan"
+
+#: main/jet-events-templatetags.php:1657
+msgid "Request Sent"
+msgstr "Pyyntö lähetetty"
+
+#: main/jet-events-templatetags.php:1679
+msgid "This is a private event and you must request event membership in order to join."
+msgstr "Tämä on yksityinen tapahtuma ja sinun on pyydettävä jäsenyyttä tapahtumaan liittyäksesi."
+
+#: main/jet-events-templatetags.php:1681
+msgid "This is a private event. To join you must be a registered site member and request event membership."
+msgstr "Tämä on yksityinen tapahtuma. Liittyäksesi sinun on oltava sivuston rekisteröity käyttäjä ja pyydettävä tapahtumaan jäsenyyttä."
+
+#: main/jet-events-templatetags.php:1683
+msgid "This is a private event. Your membership request is awaiting approval from the event administrator."
+msgstr "Tämä on yksityinen tapahtuma. Jäsenpyyntösi odottaa tapahtumajärjestäjän hyväksyntää."
+
+#: main/jet-events-templatetags.php:1685
+msgid "This is a hidden event and only invited members can join."
+msgstr "Tämä on piilotettu tapahtuma ja vain kutsutut jäsenet voivat liittyä."
+
+#: main/jet-events-templatetags.php:1987
+msgid "Viewing members %1$s to %2$s (of %3$s members)"
+msgstr "Näyttää jäsenet %1$s %2$s :n asti (kaikkiaan %3$s jäsenestä)"
+
+#: main/jet-events-templatetags.php:2483
+msgid "Search"
+msgstr "Etsi"
+
+#: main/jet-events-templatetags.php:2491
+#: main/jet-events-templatetags.php:2508
+msgid "Recently Active"
+msgstr "Äskettäin aktiivisena"
+
+#: main/jet-events-templatetags.php:2492
+#: main/jet-events-templatetags.php:2511
+msgid "Recently Joined"
+msgstr "Äskettäin liittynyt"
+
+#: main/jet-events-templatetags.php:2493
+#: main/jet-events-templatetags.php:2514
+#: main/jet-events-widgets.php:44
+msgid "Most Popular"
+msgstr "Suosituin"
+
+#: main/jet-events-templatetags.php:2494
+#: main/jet-events-templatetags.php:2517
+msgid "Administrator Of"
+msgstr "Ylläpitäjä"
+
+#: main/jet-events-templatetags.php:2495
+#: main/jet-events-templatetags.php:2520
+msgid "Moderator Of"
+msgstr "Moderaattori"
+
+#: main/jet-events-templatetags.php:2496
+#: main/jet-events-templatetags.php:2523
+msgid "Alphabetically"
+msgstr "Aakkosittain"
+
+#: main/jet-events-templatetags.php:2551
+msgid "No Event Avatar"
+msgstr "Ei tapahtumajärjestäjää"
+
+#: main/jet-events-templatetags.php:2796
+msgid "requested %s ago"
+msgstr "Pyydetty %s sitten"
+
+#: main/jet-events-templatetags.php:2978
+msgid "Member avatar"
+msgstr "Jäsenen avatar"
+
+#: main/jet-event-start.php:135
+msgid "Details"
+msgstr "Yksityiskohdat"
+
+#: main/jet-event-start.php:136
+msgid "Settings"
+msgstr "Asetukset"
+
+#: main/jet-event-start.php:137
+msgid "Avatar"
+msgstr "Avatar"
+
+#: main/jet-event-start.php:224
+msgid "Make this a group event for one of your groups"
+msgstr "Tee tästä ryhmätapahtuma yhdelle ryhmistäsi"
+
+#: main/jet-event-start.php:438
+msgid "%s posted an update in the event %s:"
+msgstr "%s lähetti päivityksen tapahtumaan %s:"
+
+#: main/jet-events-activity.php:15
+msgid "Created a event"
+msgstr "Loi tapahtuman"
+
+#: main/jet-events-activity.php:16
+msgid "Joined a event"
+msgstr "Liittyi tapahtumaan"
+
+#: main/jet-events-activity.php:75
+msgid "Event Membership Requests"
+msgstr "Jäsenpyynnöt tapahtumalle"
+
+#: main/jet-events-activity.php:75
+msgid "%d new membership requests for the event \"%s\""
+msgstr "%d uusia jäsenpyyntöjä tapahtumalle \"%s\""
+
+#: main/jet-events-activity.php:78
+msgid "%s requests membership for the event \"%s\""
+msgstr "%s pyytää jäsenyyttä tapahtumaan \"%s\""
+
+#: main/jet-events-activity.php:89
+msgid "%d accepted event membership requests"
+msgstr "%d hyväksyi jäsenpyynnöt tapahtumalle"
+
+#: main/jet-events-activity.php:91
+msgid "Membership for event \"%s\" accepted"
+msgstr "Jäsenyys tapahtumalle \"%s\" hyväksytty"
+
+#: main/jet-events-activity.php:102
+msgid "%d rejected event membership requests"
+msgstr "%d hylkäsi jäsenpyynnön tapahtumalle"
+
+#: main/jet-events-activity.php:104
+msgid "Membership for event \"%s\" rejected"
+msgstr "Jäsenyys tapahtumalle \"%s\" hylätty"
+
+#: main/jet-events-activity.php:115
+msgid "You were promoted to an admin in %d events"
+msgstr "Sinut on ylennetty ylläpitäjäksi %d tapahtumissa"
+
+#: main/jet-events-activity.php:117
+msgid "You were promoted to an admin in the event %s"
+msgstr "Sinut on ylennetty ylläpitäjäksi tapahtumassa %s"
+
+#: main/jet-events-activity.php:128
+msgid "You were promoted to a mod in %d events"
+msgstr "Sinut on ylennetty moderaattoriksi %d tapahtumissa."
+
+#: main/jet-events-activity.php:130
+msgid "You were promoted to a mod in the event %s"
+msgstr "Sinut on ylennetty moderaattoriksi tapahtumassa %s"
+
+#: main/jet-events-activity.php:141
+#: main/jet-events-activity.php:143
+msgid "Event Invites"
+msgstr "Tapahtumakutsut"
+
+#: main/jet-events-activity.php:141
+msgid "You have %d new event invitations"
+msgstr "Sinulla on %d uutta tapahtumakutsua"
+
+#: main/jet-events-activity.php:143
+msgid "You have an invitation to the event: %s"
+msgstr "Sinulle on kutsu tapahtumaan: %s"
+
+#: main/jet-events-menu.php:41
+msgid "Events <span>(%d)</span>"
+msgstr "Tapahtumat <span>(%d)</span>"
+
+#: main/jet-events-menu.php:46
+#: main/jet-events-menu.php:56
+msgid "My Events"
+msgstr "Omat tapahtumani"
+
+#: main/jet-events-menu.php:50
+msgid "Invitations to Event"
+msgstr "Kutsut tapahtumaan"
+
+#: main/jet-events-menu.php:97
+msgid "Home"
+msgstr "Koti"
+
+#: main/jet-events-menu.php:103
+#: templates/events/single/google-map.php:31
+msgid "Google Map"
+msgstr "Google Map"
+
+#: main/jet-events-menu.php:109
+#: templates/events/single/flyer.php:5
+msgid "Flyer"
+msgstr "Flaijeri"
+
+#: main/jet-events-menu.php:114
+msgid "Admin"
+msgstr "Ylläpitäjä"
+
+#: main/jet-events-menu.php:118
+msgid "Request join to event"
+msgstr "Pyydä liittymistä tapahtumaan"
+
+#: main/jet-events-menu.php:120
+msgid "Members (%s)"
+msgstr "Jäsenet (%s)"
+
+#: main/jet-events-menu.php:124
+#: templates/events/single/send-invites.php:59
+msgid "Send Invites"
+msgstr "Lähetä kutsuja"
+
+#: main/jet-events-menu.php:149
+msgid "Admin Options"
+msgstr "Ylläpitäjän valinnat"
+
+#: main/jet-events-module_eu.php:51
+msgid "An event with this name already exists .. do not want to change it?"
+msgstr "Samanniminen tapahtuma on jo olemassa .. haluatko muuttaa sen?"
+
+#: main/jet-events-module_eu.php:53
+msgid "good name for the event"
+msgstr "hyvä nimi tapahtumalle"
+
+#: main/jet-events-module_eu.php:58
+msgid "The event name can not be empty .."
+msgstr "Tapahtuman nimeä ei voi jättää tyhjäksi .."
+
+#: main/jet-events-notifications.php:7
+msgid "Event Details Updated"
+msgstr "Tapahtuman yksityiskohdat päivitetty"
+
+#: main/jet-events-notifications.php:21
+msgid ""
+"Event details for the event \"%s\" were updated:\r\n"
+"\r\n"
+"To view the event: %s\r\n"
+"\r\n"
+"---------------------\r\n"
+msgstr ""
+"Yksityistiedot tapahtumalle \"%s\" päivitettiin:\r\n"
+"\r\n"
+"Näyttääksesi tapahtuman: %s\r\n"
+"\r\n"
+"---------------------\r\n"
+
+#: main/jet-events-notifications.php:29
+#: main/jet-events-notifications.php:77
+#: main/jet-events-notifications.php:130
+#: main/jet-events-notifications.php:176
+#: main/jet-events-notifications.php:228
+#: main/jet-events-notifications.php:285
+#: main/jet-events-operations.php:391
+msgid "To disable these notifications please log in and go to: %s"
+msgstr "Estääksesi nämä ilmoitukset, kirjaudu sisään ja mene: %s"
+
+#: main/jet-events-notifications.php:62
+msgid "Membership request for event: %s"
+msgstr "Jäsenyyspyyntö tapahtumaan: %s"
+
+#: main/jet-events-notifications.php:64
+msgid ""
+"%s wants to join the event \"%s\".\r\n"
+"\r\n"
+"Because you are the administrator of this event, you must either accept or reject the membership request.\r\n"
+"\r\n"
+"To view all pending membership requests for this event, please visit:\r\n"
+"%s\r\n"
+"\r\n"
+"To view %s's profile: %s\r\n"
+"\r\n"
+"---------------------\r\n"
+msgstr ""
+"%s haluaa liittyä tapahtumaan \"%s\".\r\n"
+"\r\n"
+"Koska olet tapahtuman ylläpitäjä, sinun täytyy joko hyväksyä tai hylätä jäsenpyyntö\r\n"
+"\r\n"
+"Nähdäksesi kaikki vireillä olevat jäsenpyynnöt, mene:\r\n"
+"%s\r\n"
+"\r\n"
+"Nähdäksesi %s:n profiilin: %s\r\n"
+"\r\n"
+"---------------------\r\n"
+
+#: main/jet-events-notifications.php:110
+msgid "Membership request for event \"%s\" accepted"
+msgstr "Jäsenpyyntö tapahtumaan \"%s\" hyväksytty"
+
+#: main/jet-events-notifications.php:111
+msgid ""
+"Your membership request for the event \"%s\" has been accepted.\r\n"
+"\r\n"
+"To view the event please login and visit: %s\r\n"
+"\r\n"
+"---------------------\r\n"
+msgstr ""
+"Jäsenpyyntösi tapahtumaan \"%s\" on hyväksytty.\r\n"
+"\r\n"
+"Nähdäksesi tapahtuman, kirjaudu sisään ja vieraile: %s\r\n"
+"\r\n"
+"---------------------\r\n"
+
+#: main/jet-events-notifications.php:120
+msgid "Membership request for event \"%s\" rejected"
+msgstr "Jäsenpyyntö tapahtumaan \"%s\" hylätty"
+
+#: main/jet-events-notifications.php:121
+msgid ""
+"Your membership request for the event \"%s\" has been rejected.\r\n"
+"\r\n"
+"To submit another request please log in and visit: %s\r\n"
+"\r\n"
+"---------------------\r\n"
+msgstr ""
+"Jäsenpyyntösi tapahtumaan \"%s\" on hylätty.\r\n"
+"\r\n"
+"Lähettääksesi uuden pyynnön, kirjaudu sisään ja vieraile: %s\r\n"
+"\r\n"
+"---------------------\r\n"
+
+#: main/jet-events-notifications.php:144
+msgid "an administrator"
+msgstr "ylläpitäjä"
+
+#: main/jet-events-notifications.php:147
+msgid "a moderator"
+msgstr "moderaattori"
+
+#: main/jet-events-notifications.php:166
+msgid "You have been promoted in the event: \"%s\""
+msgstr "Sinut on ylennetty tapahtumassa: \"%s\""
+
+#: main/jet-events-notifications.php:168
+msgid ""
+"You have been promoted to %s for the event: \"%s\".\r\n"
+"\r\n"
+"To view the event please visit: %s\r\n"
+"\r\n"
+"---------------------\r\n"
+msgstr ""
+"Sinut on ylennetty %s :ksi tapahtumaan: \"%s\".\r\n"
+"\r\n"
+"Nähdäksesi tapahtuman, vieraile: %s\r\n"
+"\r\n"
+"---------------------\r\n"
+
+#: main/jet-events-notifications.php:214
+msgid "You have an invitation to the event: \"%s\""
+msgstr "Sinulla on kutsu tapahtumaan: \"%s\""
+
+#: main/jet-events-notifications.php:216
+msgid ""
+"One of your friends %s has invited you to the event: \"%s\".\r\n"
+"\r\n"
+"To view your event invites visit: %s\r\n"
+"\r\n"
+"To view the event visit: %s\r\n"
+"\r\n"
+"To view %s's profile visit: %s\r\n"
+"\r\n"
+"---------------------\r\n"
+msgstr ""
+"Yksi kavereistasi %s on kutsunut sinut tapahtumaan: \"%s\".\r\n"
+"\r\n"
+"Nähdäksesi tapahtumakutsut, vieraile: %s\r\n"
+"\r\n"
+"Nähdäksesi tapahtumavierailut, mene: %s\r\n"
+"\r\n"
+"Nähdäksesi %s:n profiilin vieraile: %s\r\n"
+"\r\n"
+"---------------------\r\n"
+
+#: main/jet-events-notifications.php:273
+msgid "%s mentioned you in the event \"%s\""
+msgstr "%s mainitsi sinut tapahtumassa \"%s\""
+
+#: main/jet-events-notifications.php:275
+msgid ""
+"%s mentioned you in the event \"%s\":\r\n"
+"\r\n"
+"\"%s\"\r\n"
+"\r\n"
+"To view and respond to the message, log in and visit: %s\r\n"
+"\r\n"
+"---------------------\r\n"
+msgstr ""
+"%s mainitsi sinut tapahtumassa \"%s\":\r\n"
+"\r\n"
+"\"%s\"\r\n"
+"\r\n"
+"Nähdäksesi ja vastataksesi viestiin, kirjaudu sisään ja vieraile: %s\r\n"
+"\r\n"
+"---------------------\r\n"
+
+#: main/jet-events-classes.php:937
+msgid "Event Mod"
+msgstr "Tapahtuman moderaattori"
+
+#: main/jet-events-classes.php:943
+#: main/jet-events-operations.php:133
+msgid "Event Admin"
+msgstr "Tapahtuman ylläpitäjä"
+
+#: main/jet-events-admin.php:132
+msgid "Database updated."
+msgstr "Tietokanta päivitetty."
+
+#: main/jet-events-admin.php:138
+msgid "Templates updated."
+msgstr "Julkaisuohjelman sivumalli päivitetty."
+
+#: main/jet-events-admin.php:143
+msgid "Files checked."
+msgstr "Tiedostot tarkistettu."
+
+#: main/jet-events-admin.php:274
+#: main/jet-events-admin.php:280
+msgid "Standart"
+msgstr "Standardi"
+
+#: main/jet-events-admin.php:333
+msgid "Site"
+msgstr "Sivusto"
+
+#: main/jet-events-admin.php:338
+msgid "Personal"
+msgstr "Henkilökohtainen"
+
+#: main/jet-events-admin.php:393
+msgid "Options updated."
+msgstr "Asetukset päivitetty."
+
+#: main/jet-events-admin.php:406
+#: main/jet-events-admin.php:419
+#: main/jet-events-admin.php:423
+msgid "Information"
+msgstr "Tiedot"
+
+#: main/jet-events-admin.php:407
+#: main/jet-events-admin.php:505
+msgid "Main Block"
+msgstr "Päävalikko"
+
+#: main/jet-events-admin.php:408
+#: main/jet-events-admin.php:545
+msgid "Setting up access to the fields events"
+msgstr "Tapahtumakenttien asetukset"
+
+#: main/jet-events-admin.php:409
+#: main/jet-events-admin.php:624
+msgid "Style Options"
+msgstr "Tyyliasetukset"
+
+#: main/jet-events-admin.php:410
+#: main/jet-events-admin.php:722
+msgid "Classification options"
+msgstr "Luokitteluasetukset"
+
+#: main/jet-events-admin.php:411
+#: main/jet-events-admin.php:768
+msgid "Google Map options (future)"
+msgstr "Google Mapin asetukset (tulevaisuudessa)"
+
+#: main/jet-events-admin.php:412
+#: main/jet-events-admin.php:784
+msgid "Reminder options (future)"
+msgstr "Muistutuksen asetukset (tulevaisuudessa)"
+
+#: main/jet-events-admin.php:413
+#: main/jet-events-admin.php:824
+msgid "Restrict options"
+msgstr "Rajoittamisen asetukset"
+
+#: main/jet-events-admin.php:414
+#: main/jet-events-admin.php:843
+msgid "Privacy options"
+msgstr "Yksityisyyden asetukset"
+
+#: main/jet-events-admin.php:415
+msgid "Tech info"
+msgstr "Tekniset tiedot"
+
+#: main/jet-events-admin.php:426
+msgid "Setup"
+msgstr "Asetukset"
+
+#: main/jet-events-admin.php:429
+msgid "Donations"
+msgstr "Lahjoitukset"
+
+#: main/jet-events-admin.php:434
+msgid "version"
+msgstr "versio"
+
+#: main/jet-events-admin.php:434
+msgid "build"
+msgstr "rakenna"
+
+#: main/jet-events-admin.php:436
+msgid "Template version:"
+msgstr "Mallinteiden versio:"
+
+#: main/jet-events-admin.php:444
+msgid "DB version:"
+msgstr "DB versio:"
+
+#: main/jet-events-admin.php:456
+msgid "Select the location you are using themes:"
+msgstr "Valitse sijainti josta käytät teemoja:"
+
+#: main/jet-events-admin.php:465
+msgid "Update Database"
+msgstr "Päivitä tietokanta"
+
+#: main/jet-events-admin.php:466
+msgid "Update Templates"
+msgstr "Päivitä teeman mallinteet"
+
+#: main/jet-events-admin.php:467
+msgid "Checking for files"
+msgstr "Etsii tiedostoja"
+
+#: main/jet-events-admin.php:498
+msgid "please specify in the designation of the site and name :) All who have made a contribution to the development of plug-in will be included in honor roll, as well as gain access to additional modules!"
+msgstr "Tarkenna sivun nimi ja nimike :) Kaikki jotka ovat avustaneet plug-in kehittämiseen, pääsevät kunnialuetteloon, samoin kuin saavat pääsyn lisämoduuleihin!"
+
+#: main/jet-events-admin.php:508
+msgid "Allow costum slug"
+msgstr "Salli muokattu polku"
+
+#: main/jet-events-admin.php:511
+msgid "Slug:"
+msgstr "Polku:"
+
+#: main/jet-events-admin.php:518
+msgid "Sort of events in the directory (by default)"
+msgstr "Tapahtumien laatu hakemistossa (oletuksena)"
+
+#: main/jet-events-admin.php:521
+#: main/jet-events-widgets.php:41
+#: templates/events/index.php:47
+msgid "Upcoming"
+msgstr "Tulevat"
+
+#: main/jet-events-admin.php:522
+#: templates/events/index.php:48
+#: templates/members/single/events.php:36
+msgid "Last Active"
+msgstr "Viimeksi aktiivisena"
+
+#: main/jet-events-admin.php:523
+#: templates/events/index.php:49
+#: templates/members/single/events.php:37
+msgid "Most Members"
+msgstr "Eniten jäseniä"
+
+#: main/jet-events-admin.php:524
+#: templates/events/index.php:50
+#: templates/members/single/events.php:38
+msgid "Newly Created"
+msgstr "Juuri luotu"
+
+#: main/jet-events-admin.php:525
+#: templates/events/index.php:51
+#: templates/members/single/events.php:39
+msgid "Alphabetical"
+msgstr "Aakkosittain"
+
+#: main/jet-events-admin.php:527
+msgid "By:"
+msgstr "Suunta:"
+
+#: main/jet-events-admin.php:529
+msgid "Ascending"
+msgstr "Nouseva"
+
+#: main/jet-events-admin.php:530
+msgid "Descending"
+msgstr "Laskeva"
+
+#: main/jet-events-admin.php:535
+msgid "Social Share Code"
+msgstr "Social Share koodi"
+
+#: main/jet-events-admin.php:537
+msgid "Code:"
+msgstr "Koodi:"
+
+#: main/jet-events-admin.php:542
+#: main/jet-events-admin.php:621
+#: main/jet-events-admin.php:719
+#: main/jet-events-admin.php:765
+#: main/jet-events-admin.php:781
+#: main/jet-events-admin.php:821
+#: main/jet-events-admin.php:840
+#: main/jet-events-admin.php:873
+msgid "Save Settings"
+msgstr "Tallenna asetukset"
+
+#: main/jet-events-admin.php:549
+msgid "Allow Country"
+msgstr "Salli maa"
+
+#: main/jet-events-admin.php:552
+msgid "Name of the country by default:"
+msgstr "Maan oletusnimi:"
+
+#: main/jet-events-admin.php:558
+msgid "Allow State"
+msgstr "Salli osavaltio"
+
+#: main/jet-events-admin.php:561
+msgid "Name of the state by default:"
+msgstr "Osavaltion oletusnimi:"
+
+#: main/jet-events-admin.php:567
+msgid "Allow City"
+msgstr "Salli kaupunki"
+
+#: main/jet-events-admin.php:570
+msgid "Name of the city by default:"
+msgstr "Kaupungin nimi oletuksena."
+
+#: main/jet-events-admin.php:578
+msgid "Allow Special Conditions"
+msgstr "Salli erityisolosuhteet"
+
+#: main/jet-events-admin.php:585
+msgid "Allow Public News"
+msgstr "Salli julkiset uutiset"
+
+#: main/jet-events-admin.php:592
+msgid "Allow Private News"
+msgstr "Salli yksityisuutiset"
+
+#: main/jet-events-admin.php:601
+msgid "Allow Event Note"
+msgstr "Salli tapahtumasta huomauttaminen"
+
+#: main/jet-events-admin.php:608
+msgid "Allow Event GoogleMap"
+msgstr "Salli tapahtuman GoogleMappaaminen"
+
+#: main/jet-events-admin.php:615
+msgid "Allow Event Flyer"
+msgstr "Salli tapahtuman flaijeri"
+
+#: main/jet-events-admin.php:627
+msgid "Style for Event Catalog:"
+msgstr "Tapahtumaluettelon tyyli:"
+
+#: main/jet-events-admin.php:630
+#: main/jet-events-admin.php:644
+msgid "Standart Style"
+msgstr "Standardityyli"
+
+#: main/jet-events-admin.php:631
+msgid "Standard will full description Style"
+msgstr "Standardityyli täydellä kuvauksella"
+
+#: main/jet-events-admin.php:632
+#: main/jet-events-admin.php:645
+msgid "Twitter Style"
+msgstr "Twitter-tyyli"
+
+#: main/jet-events-admin.php:633
+msgid "Calendar Style"
+msgstr "Kalenterityyli"
+
+#: main/jet-events-admin.php:634
+msgid "Custom Style*"
+msgstr "Oma tyyli*"
+
+#: main/jet-events-admin.php:636
+msgid "* To use a custom design Directory Events, modify the file:"
+msgstr "* Käyttääksesi omaa tyyliäsi tapahtumahakemistossa, muokkaa tiedostoa:"
+
+#: main/jet-events-admin.php:641
+msgid "Style for Single Event:"
+msgstr "Yksittäisen tapahtuman tyyli"
+
+#: main/jet-events-admin.php:650
+msgid "Avatar Options"
+msgstr "Avatarin asetukset"
+
+#: main/jet-events-admin.php:653
+msgid "Default avatar for events (img url):"
+msgstr "Oletuksena oleva avatar tapahtumille (img url):"
+
+#: main/jet-events-admin.php:660
+msgid "Default image for \"save to iphone\" (img url):"
+msgstr "Oletuskuva \"tallennettaessa iphoneen\" (img url):"
+
+#: main/jet-events-admin.php:667
+msgid "Default image for \"save to outlook\" (img url):"
+msgstr "Oletuskuva \"tallennettaessa outlookiin\" (img url):"
+
+#: main/jet-events-admin.php:674
+msgid "Show avatars in the list of invited friends"
+msgstr "Näytä avatarit kutsuttujen kavereiden listassa"
+
+#: main/jet-events-admin.php:678
+msgid "Avatars size:"
+msgstr "Avatarin koko:"
+
+#: main/jet-events-admin.php:684
+msgid "Single Event - avatars size (25..150px):"
+msgstr "Yksittäinen tapahtuma - avatarin koko (25..150px):"
+
+#: main/jet-events-admin.php:691
+msgid "Directory Events - avatars size ( 25..150px):"
+msgstr "Hakemiston tapahtumat - avatarin koko (25..150px):"
+
+#: main/jet-events-admin.php:698
+msgid "Color for past event:"
+msgstr "Menneen tapahtuman väri"
+
+#: main/jet-events-admin.php:705
+msgid "Color for active event:"
+msgstr "Aktiivisen tapahtuman väri:"
+
+#: main/jet-events-admin.php:712
+msgid "Color for current event:"
+msgstr "Tämänhetkisen tapahtuman väri:"
+
+#: main/jet-events-admin.php:725
+msgid "Allow the use of classifiers through an administrative panel (unless you want to use some or classifier - leave his field blank)"
+msgstr "Salli luokittelijat ylläpitopaneelin kautta (jos et halua käyttää jonkinlaista luokittelijaa - jätä tämä kenttä tyhjäksi)"
+
+#: main/jet-events-admin.php:732
+msgid "Classification - 1"
+msgstr "Luokittelu - 1"
+
+#: main/jet-events-admin.php:738
+msgid "Classification - 2"
+msgstr "Luokittelu - 2"
+
+#: main/jet-events-admin.php:745
+msgid "Classification - 3"
+msgstr "Luokittelu - 3"
+
+#: main/jet-events-admin.php:752
+msgid "Classification - 4"
+msgstr "Luokittelu - 4"
+
+#: main/jet-events-admin.php:759
+msgid "Classification - 5"
+msgstr "Luokittelu - 5"
+
+#: main/jet-events-admin.php:772
+msgid "Use the following mechanism for the demonstration maps:"
+msgstr ""
+
+#: main/jet-events-admin.php:775
+msgid "Google"
+msgstr "Google"
+
+#: main/jet-events-admin.php:776
+msgid "Image"
+msgstr "Kuva"
+
+#: main/jet-events-admin.php:788
+msgid "Provide administrators an opportunity to remind participants of the events of the coming event in manual mode?"
+msgstr "Anna ylläpitäjille mahdollisuus muistuttaa osallistujia tulevista tapahtumista manuaalisesti?"
+
+#: main/jet-events-admin.php:795
+msgid "To allow the setting reminder?"
+msgstr "Salli muistutuksen asettaminen?"
+
+#: main/jet-events-admin.php:798
+#: templates/events/single/admin.php:324
+msgid "Administrators"
+msgstr "Ylläpitäjät"
+
+#: main/jet-events-admin.php:799
+msgid "All users"
+msgstr "Kaikki käyttäjät"
+
+#: main/jet-events-admin.php:800
+msgid "Function is not active"
+msgstr "Toiminto ei ole aktiivinen"
+
+#: main/jet-events-admin.php:806
+msgid "Time remind default:"
+msgstr "Muistutuksen oletusaika:"
+
+#: main/jet-events-admin.php:809
+#: main/jet-events-admin.php:810
+#: main/jet-events-admin.php:811
+#: main/jet-events-admin.php:812
+#: main/jet-events-admin.php:813
+#: main/jet-events-admin.php:814
+#: main/jet-events-admin.php:815
+#: main/jet-events-admin.php:816
+msgid "%s hours"
+msgstr "%s tuntia"
+
+#: main/jet-events-admin.php:827
+msgid "Prohibit non-administrators to create events"
+msgstr "Estä peruskäyttäjiä luomasta tapahtumia"
+
+#: main/jet-events-admin.php:834
+msgid "Allow verification of events by the administrator"
+msgstr "Ylläpitäjien pitää hyväksyä tapahtumat"
+
+#: main/jet-events-admin.php:846
+msgid "Allow indexing of events search engines"
+msgstr "Salli tapahtumien indeksointi hakukoneissa"
+
+#: main/jet-events-admin.php:853
+msgid "Deny access to events for unregistered users"
+msgstr "Estä rekisteröitymättömien käyttäjien pääsy tapahtumiin"
+
+#: main/jet-events-admin.php:860
+msgid "Show private events in the catalog for unregistered users (in the cases allow access to events)"
+msgstr "Näytä yksityistapahtumat rekisteröitymättömien käyttäjien luettelossa (siinä tapauksessa salli pääsy tapahtumiin)"
+
+#: main/jet-events-admin.php:867
+msgid "Show flyers to all users? (otherwise, flyers will be available only to participants of the event)"
+msgstr "Näytä flaijerit kaikille käyttäjille? (muussa tapauksessa flaijerit näkyvät vain tapahtuman osallistujille)"
+
+#: main/jet-events-admin.php:879
+msgid "Support"
+msgstr "Tuki"
+
+#: main/jet-events-admin.php:882
+msgid "Translate"
+msgstr "Käännös"
+
+#: main/jet-events-admin.php:904
+msgid "Please send your translations to milord_k @ mail.ru"
+msgstr "Lähetä käännöksesi milord_k @ mail.ru"
+
+#: main/jet-events-admin.php:906
+msgid "Translates can be discussed at the forum on the official website of the plugin:"
+msgstr "Käännöksistä voidaan keskustella pluginin virallisen kotisivun foorumilla:"
+
+#: main/jet-events-admin.php:912
+msgid "Recommended plugins"
+msgstr "Suositellut pluginit"
+
+#: main/jet-events-admin.php:921
+msgid "Recommended themes"
+msgstr "Suositellut teemat"
+
+#: main/jet-events-admin.php:946
+msgid "Jet Event System"
+msgstr "Jet Event System"
+
+#: main/jet-events-widgets.php:42
+msgid "Newest"
+msgstr "Uusimmat"
+
+#: main/jet-events-widgets.php:43
+msgid "Most Active"
+msgstr "Aktiivisimmat"
+
+#: main/jet-events-widgets.php:125
+#: main/jet-events-widgets.php:283
+#: main/jet-events-widgets.php:389
+msgid "In city:"
+msgstr "Kaupungissa:"
+
+#: main/jet-events-widgets.php:125
+#: main/jet-events-widgets.php:283
+#: main/jet-events-widgets.php:389
+msgid "Start:"
+msgstr "Alku:"
+
+#: main/jet-events-widgets.php:125
+#: main/jet-events-widgets.php:283
+#: main/jet-events-widgets.php:389
+msgid "End:"
+msgstr "Loppu:"
+
+#: main/jet-events-widgets.php:136
+#: main/jet-events-widgets.php:298
+msgid "There are no events to display."
+msgstr "Yhtään tapahtumaa ei ole näytettävissä."
+
+#: main/jet-events-widgets.php:174
+#: main/jet-events-widgets.php:328
+msgid "Title:"
+msgstr "Otsikko:"
+
+#: main/jet-events-widgets.php:176
+#: main/jet-events-widgets.php:330
+msgid "Max events to show:"
+msgstr "Suurin näytettävä määrä tapahtumia:"
+
+#: main/jet-events-widgets.php:179
+msgid "Show navigation:"
+msgstr "Näytä navigointi:"
+
+#: main/jet-events-widgets.php:182
+#: main/jet-events-widgets.php:334
+msgid "Show type of event and its Classification:"
+msgstr "Näytä tapahtuman tyyppi ja sen luokitus:"
+
+#: main/jet-events-widgets.php:184
+msgid "Show time:"
+msgstr "Näytä aika:"
+
+#: main/jet-events-widgets.php:186
+msgid "Show the country and state for the event (if allowed to use administrative panel):"
+msgstr "Näytä tapahtuman maa ja osavaltio (jos sallittu ylläpidon paneelista)"
+
+#: main/jet-events-widgets.php:189
+#: main/jet-events-widgets.php:337
+msgid "Show archived events only for administrator:"
+msgstr "Näytä arkistoidut tapahtumat vain ylläpitäjälle:"
+
+#: main/jet-events-widgets.php:192
+#: main/jet-events-widgets.php:340
+msgid "Color to archive events:"
+msgstr "Tapahtumien arkistoinnin väri:"
+
+#: main/jet-events-widgets.php:194
+msgid "Show avatar:"
+msgstr "Näytä avatar:"
+
+#: main/jet-events-widgets.php:202
+msgid "Short Events"
+msgstr "Lyhyet tapahtumat"
+
+#: main/jet-events-widgets.php:382
+msgid "created %s ago"
+msgstr "Luotu %s sitten"
+
+#: main/jet-events-widgets.php:384
+#: templates/events/single/event-header.php:36
+msgid "active %s ago"
+msgstr "aktiivinen %s sitten"
+
+#: main/jet-events-widgets.php:404
+msgid "No events matched the current filter."
+msgstr "Yksikään tapahtuma ei vastaa tämänhetkistä suodatusta."
+
+#: main/jet-events-functions.php:145
+msgid "Current event"
+msgstr "Tämänhetkinen tapahtuma"
+
+#: main/jet-events-functions.php:155
+msgid "Active event"
+msgstr "Aktiivinen tapahtuma"
+
+#: main/jet-events-ajax.php:29
+#: templates/events/single/send-invites.php:41
+#: templates/events/create.php:429
+msgid "Remove Invite"
+msgstr "Poista kutsu"
+
+#: main/jet-events-operations.php:280
+msgid "As the only Admin, you cannot leave the event."
+msgstr "Et voi poistua tapahtumasta, koska olet ainoa ylläpitäjä."
+
+#: main/jet-events-operations.php:367
+#: templates/events/create.php:263
+msgid "Reminder"
+msgstr "Muistutus"
+
+#: main/jet-events-operations.php:382
+msgid ""
+"We remind you that after %s hours will be held event \"%s\".\n"
+"The event will be held at: %s\n"
+"\n"
+"To view the event: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"Muistutamme sinua, että %s tunnin kuluttua järjestetään tapahtuma \"%s\".\n"
+"Tapahtuma järjestetään paikassa: %s\n"
+"\n"
+"Nähdäksesi tapahtuman: %s\n"
+"\n"
+"---------------------\n"
+
+#: templates/events/index.php:7
+#: templates/events/create.php:24
+msgid "Events Directory"
+msgstr "Tapahtumien hakemisto"
+
+#: templates/events/index.php:18
+#: templates/events/index.php:24
+#: templates/events/create.php:24
+msgid "Create an Event"
+msgstr "Luo tapahtuma"
+
+#: templates/events/index.php:33
+msgid "All Events (%s)"
+msgstr "Kaikki tapahtumat (%s)"
+
+#: templates/events/index.php:36
+msgid "My Events (%s)"
+msgstr "Minun tapahtumani (%s)"
+
+#: templates/events/index.php:45
+#: templates/members/single/events.php:34
+msgid "Order By:"
+msgstr "Järjestä:"
+
+#: templates/events/single/request-join-to-event.php:4
+msgid "You are requesting to become a member of the event '%s'."
+msgstr "Olet lähettänyt pyynnön päästä jäseneksi tapahtumaan '%s'."
+
+#: templates/events/single/request-join-to-event.php:7
+msgid "Comments (optional)"
+msgstr "Kommentit (vapaaehtoiset)"
+
+#: templates/events/single/request-join-to-event.php:12
+msgid "Send Request"
+msgstr "Lähetä pyyntö"
+
+#: templates/events/single/admin.php:20
+#: templates/events/single/details.php:8
+#: templates/events/create.php:48
+msgid "Base event details"
+msgstr "Tapahtuman perustiedot"
+
+#: templates/events/single/admin.php:21
+#: templates/events/create.php:49
+msgid "* Event Name"
+msgstr "* Tapahtuman nimi"
+
+#: templates/events/single/admin.php:21
+#: templates/events/single/admin.php:27
+#: templates/events/single/admin.php:33
+#: templates/events/single/admin.php:45
+#: templates/events/single/admin.php:49
+#: templates/events/single/admin.php:57
+#: templates/events/single/admin.php:64
+#: templates/events/single/admin.php:129
+#: templates/events/single/admin.php:161
+#: templates/events/create.php:49
+#: templates/events/create.php:71
+#: templates/events/create.php:93
+#: templates/events/create.php:97
+#: templates/events/create.php:104
+#: templates/events/create.php:110
+#: templates/events/create.php:169
+#: templates/events/create.php:201
+msgid "(required)"
+msgstr "(vaaditaan)"
+
+#: templates/events/single/admin.php:27
+msgid "Approve Event?"
+msgstr "Hyväksy tapahtuma?"
+
+#: templates/events/single/admin.php:29
+msgid "Approve"
+msgstr "Hyväksy"
+
+#: templates/events/single/admin.php:30
+msgid "Not Approve"
+msgstr "Älä hyväksy"
+
+#: templates/events/single/admin.php:33
+#: templates/events/create.php:71
+msgid "* Event classification"
+msgstr "* Tapahtuman luokitus"
+
+#: templates/events/single/admin.php:45
+#: templates/events/create.php:93
+msgid "* Event Description"
+msgstr "* Tapahtuman kuvaus"
+
+#: templates/events/single/admin.php:49
+#: templates/events/create.php:97
+msgid "* Event Country"
+msgstr "* Tapahtuman maa"
+
+#: templates/events/single/admin.php:57
+#: templates/events/create.php:104
+msgid "* Event State"
+msgstr "* Tapahtuman osavaltio"
+
+#: templates/events/single/admin.php:64
+#: templates/events/create.php:110
+msgid "* Event City"
+msgstr "Tapahtuman kaupunki"
+
+#: templates/events/single/admin.php:69
+#: templates/events/single/google-map.php:22
+#: templates/events/single/details.php:30
+#: templates/events/create.php:115
+msgid "Event address"
+msgstr "Tapahtuman osoite"
+
+#: templates/events/single/admin.php:74
+#: templates/events/single/google-map.php:26
+#: templates/events/single/details.php:34
+#: templates/events/create.php:119
+msgid "Event note"
+msgstr "Tapahtumamerkintä"
+
+#: templates/events/single/admin.php:85
+#: templates/events/create.php:145
+msgid "Link to Google Maps or any other image"
+msgstr "Linkki Google Mapsiin tai mihin tahansa muuhun kuvaan"
+
+#: templates/events/single/admin.php:96
+#: templates/events/create.php:155
+msgid "Link to image flyer"
+msgstr "Linkki kuvaflaijeriin"
+
+#: templates/events/single/admin.php:104
+#: templates/events/single/details.php:43
+#: templates/events/create.php:138
+msgid "Special Conditions"
+msgstr "Erityisolosuhteet"
+
+#: templates/events/single/admin.php:109
+#: templates/events/create.php:127
+msgid "News for event"
+msgstr "Tapahtuman uutiset"
+
+#: templates/events/single/admin.php:112
+#: templates/events/single/details.php:54
+msgid "Public Event News"
+msgstr "Julkiset tapahtuman uutiset"
+
+#: templates/events/single/admin.php:116
+#: templates/events/single/details.php:64
+#: templates/events/create.php:134
+msgid "Private Event News"
+msgstr "Yksityiset tapahtuman uutiset"
+
+#: templates/events/single/admin.php:125
+#: templates/events/single/details.php:37
+#: templates/events/create.php:165
+msgid "Event Date"
+msgstr "Tapahtuman päivämäärä"
+
+#: templates/events/single/admin.php:129
+#: templates/events/create.php:169
+msgid "* Event Start date"
+msgstr "* Tapahtuman aloituspäivä"
+
+#: templates/events/single/admin.php:142
+#: templates/events/single/admin.php:174
+#: templates/events/create.php:182
+#: templates/events/create.php:214
+msgid " hours"
+msgstr "tuntia"
+
+#: templates/events/single/admin.php:152
+#: templates/events/single/admin.php:184
+#: templates/events/create.php:192
+#: templates/events/create.php:224
+msgid " minutes"
+msgstr "minuuttia"
+
+#: templates/events/single/admin.php:161
+#: templates/events/create.php:201
+msgid "* Event End date"
+msgstr "* Tapahtuman päättymispäivä"
+
+#: templates/events/single/admin.php:192
+msgid "Notify participants of the event to update the details?"
+msgstr "Huomauta tapahtuman osallistujille yksityiskohtien päivittämisestä?"
+
+#: templates/events/single/admin.php:201
+#: templates/events/single/admin.php:267
+msgid "Save Changes"
+msgstr "Tallenna muutokset"
+
+#: templates/events/single/admin.php:211
+#: templates/events/create.php:290
+msgid "Privacy Options"
+msgstr "Yksityisyysasetukset"
+
+#: templates/events/single/admin.php:216
+#: templates/events/create.php:294
+msgid "This is a public event"
+msgstr "Tämä on julkinen tapahtuma"
+
+#: templates/events/single/admin.php:218
+#: templates/events/create.php:296
+msgid "Any site member can join this event."
+msgstr "Kuka tahansa sivuston jäsen voi osallistua tapahtumaan"
+
+#: templates/events/single/admin.php:219
+#: templates/events/single/admin.php:228
+#: templates/events/create.php:297
+#: templates/events/create.php:306
+msgid "This event will be listed in the events directory and in search results."
+msgstr "Tämä tapahtuma listataan tapahtumakansiossa ja hakutuloksissa. "
+
+#: templates/events/single/admin.php:220
+#: templates/events/create.php:298
+msgid "Event content and activity will be visible to any site member."
+msgstr "Tapahtuman sisältö ja aktiivisuus näytetään kelle tahansa sivuston jäsenelle."
+
+#: templates/events/single/admin.php:225
+#: templates/events/create.php:303
+msgid "This is a private event"
+msgstr "Tämä on yksityinen tapahtuma"
+
+#: templates/events/single/admin.php:227
+msgid "Only users who request membership and are accepted can join the event."
+msgstr "Ainoastaan hyväksytyn jäsenpyynnön lähettäneet jäsenet voivat osallistua tapahtumaan."
+
+#: templates/events/single/admin.php:229
+#: templates/events/single/admin.php:238
+#: templates/events/create.php:307
+#: templates/events/create.php:316
+msgid "Event content and activity will only be visible to members of the event."
+msgstr "Tapahtuman sisältö ja aktiivisuus näytetään vain tapahtuman jäsenille."
+
+#: templates/events/single/admin.php:234
+#: templates/events/create.php:312
+msgid "This is a hidden event"
+msgstr "Tämä on piilotettu tapahtuma"
+
+#: templates/events/single/admin.php:236
+#: templates/events/create.php:314
+msgid "Only users who are invited can join the event."
+msgstr "Ainoastaan kutsutut käyttäjät voivat liittyä tapahtumaan."
+
+#: templates/events/single/admin.php:237
+#: templates/events/create.php:315
+msgid "This event will not be listed in the events directory or search results."
+msgstr "Tätä tapahtumaa ei listata tapahtumakansiossa tai hakutuloksissa."
+
+#: templates/events/single/admin.php:243
+#: templates/events/create.php:321
+msgid "Group/Forum link options"
+msgstr "Ryhmän/Foorumin linkkiasetukset"
+
+#: templates/events/single/admin.php:244
+#: templates/events/create.php:322
+msgid "Select the group you want to contact the event:"
+msgstr "Valitse ryhmä, johon haluat liittää tapahtuman:"
+
+#: templates/events/single/admin.php:258
+#: templates/events/create.php:326
+msgid "Sociable Share"
+msgstr "Sosiaalinen jakaminen"
+
+#: templates/events/single/admin.php:259
+#: templates/events/create.php:328
+msgid "Enable Social share button?"
+msgstr "Hyväksy Sosiaalinen jakaminen -nappula?"
+
+#: templates/events/single/admin.php:277
+#: templates/events/create.php:352
+msgid "Upload an image to use as an avatar for this event. The image will be shown on the main event page, and in search results."
+msgstr "Lataa kuva jota käytät tapahtuman avatarina. Kuva näytetään päätapahtumasivulla ja hakutuloksista."
+
+#: templates/events/single/admin.php:280
+#: templates/events/create.php:356
+msgid "Upload Image"
+msgstr "Lataa kuva"
+
+#: templates/events/single/admin.php:285
+msgid "If you'd like to remove the existing avatar but not upload a new one, please use the delete avatar button."
+msgstr "Jos haluat poistaa olemassaolevan avatarin, mutta et ladata uutta, käytä Poista avatar - nappulaa."
+
+#: templates/events/single/admin.php:287
+msgid "Delete Avatar"
+msgstr "Poista avatar"
+
+#: templates/events/single/admin.php:297
+msgid "Crop Avatar"
+msgstr "Rajaa avatar"
+
+#: templates/events/single/admin.php:298
+#: templates/events/create.php:369
+msgid "Avatar to crop"
+msgstr "Rajattava avatar"
+
+#: templates/events/single/admin.php:301
+#: templates/events/create.php:372
+msgid "Avatar preview"
+msgstr "Avatarin esikatselu"
+
+#: templates/events/single/admin.php:304
+#: templates/events/create.php:375
+msgid "Crop Image"
+msgstr "Rajaa kuva"
+
+#: templates/events/single/admin.php:331
+msgid "Moderators"
+msgstr "Moderaattorit"
+
+#: templates/events/single/admin.php:338
+msgid "Members"
+msgstr "Jäsenet"
+
+#: templates/events/single/admin.php:366
+msgid "(banned)"
+msgstr "(porttikiellossa)"
+
+#: templates/events/single/admin.php:366
+#: templates/events/single/admin.php:372
+msgid "Kick and ban this member"
+msgstr "Erota ja anna porttikielto tälle jäsenelle"
+
+#: templates/events/single/admin.php:366
+msgid "Remove Ban"
+msgstr "Poista porttikielto"
+
+#: templates/events/single/admin.php:372
+msgid "Kick &amp; Ban"
+msgstr "Erota &amp; Laita porttikieltoon"
+
+#: templates/events/single/admin.php:372
+msgid "Promote to Mod"
+msgstr "Ylennä moderaattoriksi"
+
+#: templates/events/single/admin.php:385
+#: templates/events/single/members.php:51
+msgid "This event has no members."
+msgstr "Tällä tapahtumalla ei ole jäseniä."
+
+#: templates/events/single/admin.php:416
+#: templates/members/single/events/invites.php:20
+msgid "Accept"
+msgstr "Hyväksy."
+
+#: templates/events/single/admin.php:422
+#: templates/members/single/events/invites.php:21
+msgid "Reject"
+msgstr "Hylkää."
+
+#: templates/events/single/admin.php:436
+msgid "There are no pending membership requests."
+msgstr "Vireillä olevia jäsenpyyntöjä ei ole."
+
+#: templates/events/single/admin.php:453
+msgid "WARNING: Deleting this event will completely remove ALL content associated with it. There is no way back, please be careful with this option."
+msgstr "VAROITUS: Tämän tapahtuman poistaminen tuhoaa KAIKEN siihen liittyvän sisällön. Tapahtumaa ei voi jälkikäteen peruuttaa, ole varovainen tämän asetuksen kanssa."
+
+#: templates/events/single/admin.php:456
+msgid "I understand the consequences of deleting this event."
+msgstr "Ymmärrän tämän tapahtuman poistamisen jälkiseuraukset."
+
+#: templates/events/single/flyer.php:19
+msgid "Available only to participants of the event!"
+msgstr "Saatavilla ainoastaan tapahtuman osallistujille!"
+
+#: templates/events/single/flyer.php:23
+msgid "Currently unavailable"
+msgstr "Tällä hetkellä saavuttamattomissa."
+
+#: templates/events/single/send-invites.php:22
+#: templates/events/create.php:413
+msgid "Select people to invite from your friends list."
+msgstr "Valitse kaverilistalta kutsuttavat henkilöt."
+
+#: templates/events/single/send-invites.php:72
+#: templates/events/create.php:444
+msgid "Once you have built up friend connections you will be able to invite others to your event. You can send invites any time in the future by selecting the \"Send Invites\" option when viewing your new event."
+msgstr "Kun olet luonut kaverikontaktit, voit kutsua heitä tapahtumaasi. Voit lähettää kutsuja milloin tahansa tulevaisuudessa valitsemalla asetuksen \"Lähetä kutsut\" tarkastellessasi uutta tapahtumaa."
+
+#: templates/events/single/event-header.php:12
+msgid "Event Admins"
+msgstr "Tapahtuman ylläpitäjät"
+
+#: templates/events/single/event-header.php:20
+msgid "Event Mods"
+msgstr "Tapahtuman moderaattorit"
+
+#: templates/events/single/event-header.php:37
+msgid "Event classification"
+msgstr "Tapahtumaluokka"
+
+#: templates/events/single/event-header.php:94
+msgid "You can not join or refuse to participate in an event as this - %s"
+msgstr "Et voi liittyä tai kieltäytyä osallistumasta tämänkaltaiseen tapahtumaan - %s"
+
+#: templates/events/single/details.php:9
+msgid "Event Description"
+msgstr "Tapahtuman kuvaus"
+
+#: templates/events/single/details.php:13
+msgid "Event Location:"
+msgstr "Tapahtuman sijainti:"
+
+#: templates/events/single/details.php:38
+msgid "Event Start date"
+msgstr "Tapahtuman alkamispäivä"
+
+#: templates/events/single/details.php:38
+#: templates/events/single/details.php:39
+msgid "Time:"
+msgstr "Ajankohta:"
+
+#: templates/events/single/details.php:39
+msgid "Event End date"
+msgstr "Tapahtuman loppumispäivä"
+
+#: templates/events/single/activity.php:3
+msgid "RSS"
+msgstr "RSS"
+
+#: templates/events/single/activity.php:9
+msgid "No Filter"
+msgstr "Ei suodatusta"
+
+#: templates/events/single/activity.php:10
+msgid "Show Updates"
+msgstr "Näytä päivitykset"
+
+#: templates/events/single/activity.php:11
+msgid "Show New Event Memberships"
+msgstr "Näytä uudet tapahtumajäsenyydet"
+
+#: templates/events/events-loop.php:20
+msgid "Style:"
+msgstr "Tyyli:"
+
+#: templates/events/events-loop.php:26
+msgid "Private events are not shown, register to view"
+msgstr "Yksityisiä tapahtumia ei näytetä, rekisteröidy tarkastellaksesi niitä"
+
+#: templates/events/events-loop.php:45
+msgid "today"
+msgstr "tänään"
+
+#: templates/events/events-loop.php:46
+msgid "month"
+msgstr "kuukausi"
+
+#: templates/events/events-loop.php:47
+msgid "week"
+msgstr "viikko"
+
+#: templates/events/events-loop.php:48
+msgid "day"
+msgstr "päivä"
+
+#: templates/events/events-loop.php:50
+msgid "Sun"
+msgstr "Su"
+
+#: templates/events/events-loop.php:50
+msgid "Mon"
+msgstr "Ma"
+
+#: templates/events/events-loop.php:50
+msgid "Tue"
+msgstr "Ti"
+
+#: templates/events/events-loop.php:50
+msgid "Wed"
+msgstr "Ke"
+
+#: templates/events/events-loop.php:50
+msgid "Thu"
+msgstr "To"
+
+#: templates/events/events-loop.php:50
+msgid "Fri"
+msgstr "Pe"
+
+#: templates/events/events-loop.php:50
+msgid "Sat"
+msgstr "La"
+
+#: templates/events/events-loop.php:51
+msgid "January"
+msgstr "Tammikuu"
+
+#: templates/events/events-loop.php:51
+msgid "February"
+msgstr "Helmikuu"
+
+#: templates/events/events-loop.php:51
+msgid "March"
+msgstr "Maaliskuu"
+
+#: templates/events/events-loop.php:51
+msgid "April"
+msgstr "Huhtikuu"
+
+#: templates/events/events-loop.php:51
+#: templates/events/events-loop.php:52
+msgid "May"
+msgstr "Toukokuu"
+
+#: templates/events/events-loop.php:51
+msgid "June"
+msgstr "Kesäkuu"
+
+#: templates/events/events-loop.php:51
+msgid "July"
+msgstr "Heinäkuu"
+
+#: templates/events/events-loop.php:51
+msgid "August"
+msgstr "Elokuu"
+
+#: templates/events/events-loop.php:51
+msgid "September"
+msgstr "Syyskuu"
+
+#: templates/events/events-loop.php:51
+msgid "October"
+msgstr "Lokakuu"
+
+#: templates/events/events-loop.php:51
+msgid "November"
+msgstr "Marraskuu"
+
+#: templates/events/events-loop.php:51
+msgid "December"
+msgstr "Joulukuu"
+
+#: templates/events/events-loop.php:52
+msgid "Jan"
+msgstr "Tam"
+
+#: templates/events/events-loop.php:52
+msgid "Feb"
+msgstr "Hel"
+
+#: templates/events/events-loop.php:52
+msgid "Mar"
+msgstr "Maa"
+
+#: templates/events/events-loop.php:52
+msgid "Apr"
+msgstr "Huh"
+
+#: templates/events/events-loop.php:52
+msgid "Jun"
+msgstr "Kesä"
+
+#: templates/events/events-loop.php:52
+msgid "Jul"
+msgstr "Hei"
+
+#: templates/events/events-loop.php:52
+msgid "Aug"
+msgstr "Elo"
+
+#: templates/events/events-loop.php:52
+msgid "Sep"
+msgstr "Syys"
+
+#: templates/events/events-loop.php:52
+msgid "Oct"
+msgstr "Loka"
+
+#: templates/events/events-loop.php:52
+msgid "Nov"
+msgstr "Mar"
+
+#: templates/events/events-loop.php:52
+msgid "Dec"
+msgstr "Jou"
+
+#: templates/events/events-loop.php:193
+msgid "There were no events found."
+msgstr "Yhtään tapahtumaa ei löytynyt."
+
+#: templates/events/create.php:130
+msgid "Event Public news"
+msgstr "Tapahtumien julkiset uutiset"
+
+#: templates/events/create.php:264
+msgid "Remind participants about the early events in %s hours?"
+msgstr "Muistuta osallistujia varhaisista tapahtumista %s tunnissa?"
+
+#: templates/events/create.php:305
+msgid "Just send a request to join, users can join the event."
+msgstr "Lähetä vain liittymispyyntö, käyttäjät voivat liittyä tapahtumaan."
+
+#: templates/events/create.php:360
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr "Ohittaaksesi avatarin latausprosessin, paina  \"Seuraava vaihe\" -nappulaa."
+
+#: templates/events/create.php:367
+msgid "Crop Event Avatar"
+msgstr "Rajaa tapahtuman avatar"
+
+#: templates/events/create.php:462
+msgid "Previous Step"
+msgstr "Edellinen vaihe"
+
+#: templates/events/create.php:467
+msgid "Next Step"
+msgstr "Seuraava vaihe"
+
+#: templates/events/create.php:472
+msgid "Create Event and Continue"
+msgstr "Luo tapahtuma ja jatka"
+
+#: templates/events/create.php:477
+msgid "Finish"
+msgstr "Lopeta"
+
+#: templates/members/single/events.php:40
+msgid "Soon"
+msgstr "Pian"
+
+#: templates/members/single/events/invites.php:34
+msgid "You have no outstanding event invites."
+msgstr "Sinulla ei ole merkittäviä tapahtumakutsuja."
+

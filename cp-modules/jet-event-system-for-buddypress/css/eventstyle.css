@@ -1,0 +1,8 @@
+#eventstyle input[type=submit]
+{
+	float: right;
+	font-size: 70%;
+	padding-left: 20px;
+	background-image: url('../images/to_send.gif');
+	background-repeat: no-repeat;
+}

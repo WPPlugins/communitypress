@@ -1,0 +1,1 @@
+<div id="not_friend_message">This information is avaliable only for friends of <?php global $bp; echo $bp->displayed_user->fullname; ?>. Try sending <?php global $bp; echo $bp->displayed_user->fullname; ?> a friend request.

@@ -1,0 +1,1 @@
+Before using the script - be sure to check table preferred shares and certain script in your wp-config

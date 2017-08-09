@@ -1,0 +1,7 @@
+<?php if (!is_single() && get_option('minimal_postinfo1') <> '') { ?>
+	<p class="post-meta"><?php _e('Posted','Minimal'); ?> <?php if (in_array('author', get_option('minimal_postinfo1'))) { ?> <?php _e('by','Minimal'); ?> <?php the_author_posts_link(); ?><?php }; ?><?php if (in_array('date', get_option('minimal_postinfo1'))) { ?> <?php _e('on','Minimal'); ?> <?php the_time(get_option('minimal_date_format')) ?><?php }; ?><?php if (in_array('categories', get_option('minimal_postinfo1'))) { ?> <?php _e('in','Minimal'); ?> <?php the_category(', ') ?><?php }; ?><?php if (in_array('comments', get_option('minimal_postinfo1'))) { ?> | <?php comments_popup_link(__('0 comments','Minimal'), __('1 comment','Minimal'), '% '.__('comments','Minimal')); ?><?php }; ?></p>
+<?php } elseif (is_single() && get_option('minimal_postinfo2') <> '') { ?>
+	<p class="post-meta">
+		<?php _e('Posted','Minimal'); ?> <?php if (in_array('author', get_option('minimal_postinfo2'))) { ?> <?php _e('by','Minimal'); ?> <?php the_author_posts_link(); ?><?php }; ?><?php if (in_array('date', get_option('minimal_postinfo2'))) { ?> <?php _e('on','Minimal'); ?> <?php the_time(get_option('minimal_date_format')) ?><?php }; ?><?php if (in_array('categories', get_option('minimal_postinfo2'))) { ?> <?php _e('in','Minimal'); ?> <?php the_category(', ') ?><?php }; ?><?php if (in_array('comments', get_option('minimal_postinfo2'))) { ?> | <?php comments_popup_link(__('0 comments','Minimal'), __('1 comment','Minimal'), '% '.__('comments','Minimal')); ?><?php }; ?>
+	</p>
+<?php }; ?>
